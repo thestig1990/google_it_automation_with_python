@@ -5,6 +5,10 @@
 The main purpose of creating this repository is self-study during the [Google IT Automation with Python Professional Course](https://www.coursera.org/professional-certificates/google-it-automation)\
 by Google on [Coursera](https://www.coursera.org/). Here you will find training materials, files, videos, quizes and scripts for all 6 courses.
 
+## Certificate
+
+![certificate_F5R59EMZD4YB](Coursera_F5R59EMZD4YB.png)
+
 ## About course
 
 **What you'll learn**

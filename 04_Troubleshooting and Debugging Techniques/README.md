@@ -15,3 +15,7 @@ at challenges specific to certain platforms and scripting languages.
 
 We strongly recommend that you’ve taken the prior courses in this program, or already have knowledge of Python and Linux\
 so that you can follow along with our troubleshooting examples.
+
+## Certificate
+
+![Coursera_RQ78Y9BPDB93](Coursera_RQ78Y9BPDB93.png)

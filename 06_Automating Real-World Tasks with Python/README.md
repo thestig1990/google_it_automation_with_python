@@ -20,3 +20,7 @@ to a person instead of a program, you'll also learn to send email messages.
 At the end of this course, you’ll be able to take a description of a problem and use your skills to create a solution --\
 just like you would on the job. In your final capstone project, you'll be given a description of what your customer needs,\
 and it will be up to you to create a program to do it!
+
+## Certificate
+
+![Coursera_K6GXPH6L6XAC](Coursera_K6GXPH6L6XAC.png)

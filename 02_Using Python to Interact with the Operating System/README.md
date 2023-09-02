@@ -18,3 +18,7 @@ by using the tools that we’ve acquired to process data and generate automatic 
 
 We’ll also explain how to set up your own developer environment in your machine. This is a key step in being able to write\
 and deploy powerful automation tools.
+
+## Certificate
+
+![Coursera_8DEWL8AC7V5Y.png](Coursera_8DEWL8AC7V5Y.png)

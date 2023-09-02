@@ -16,3 +16,7 @@ more complex cases. You’ll be a Puppet-master in no time!
 Later on, you'll expand your automation skills by understanding how to use the Cloud to help scale your infrastructure.\
 You'll check out some best practices for handling hundreds of virtual machines running in the Cloud and troubleshooting\
 them when things don't go according to plan.
+
+## Certificate
+
+![Coursera_76CLLSSVZ925](Coursera_76CLLSSVZ925.png)

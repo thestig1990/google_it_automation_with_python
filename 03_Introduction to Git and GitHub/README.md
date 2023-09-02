@@ -18,3 +18,7 @@ where you’ll also start creating your own portfolio!
 
 In order to follow along and complete the assessments, you’ll need a computer where you can install Git or ask your\
 administrator to install it for you.
+
+## Certificate
+
+![Coursera_DYEHRLFBB7NC.png](Coursera_DYEHRLFBB7NC.png)

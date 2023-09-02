@@ -12,3 +12,7 @@ programming fit together; and combine all of this knowledge to solve a complex p
 We'll start off by diving into the basics of writing a computer program. Along the way, you’ll get hands-on experience\
 with programming concepts through interactive exercises and real-world examples. You’ll quickly start to see how computers\
 can perform a multitude of tasks — you just have to write code that tells them what to do.
+
+## Certificate
+
+![Coursera_2EQSR96HRCN6](Coursera_2EQSR96HRCN6.png)

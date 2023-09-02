@@ -1,0 +1,38 @@
+Queue the graduation music, you've made it to the
+end of the course. Congrats, it's been
+a long journey and you should feel really
+excited for making it here. By now, you're much
+more familiar with the operating system and the many different tasks that you can accomplish using Python. You know how to create, change, and delete
+files and directories. You know how to process text
+with regular expressions both with Python and
+with system tools. You've learned how
+to interact with system processes by starting them and sending signals to them. You've got some experience
+with automatically testing your code to make sure that
+it does what it should. You've dipped your toes into some Bash scripting and
+you've topped all of this off by solving a complex real-world problem
+with the coding road. I hope that you had a
+lot of fun getting here. The most fun and
+rewarding part of my job as a system administrator, is getting the code to work. Sometimes the path to
+accomplish what you want isn't straightforward
+and inevitably, you're going to
+make some mistakes. But there's nothing
+like the moment of clarity you get when you
+spot the change that you need to make so that
+everything works like magic, huge win. The first automation
+script that I ever wrote was for a
+previous job I had. We had a handful of servers, and on a monthly basis, we would manually
+archives some files, check for updates and install
+them if there were any. It was a pretty repetitive task and not the best use of our time. After the second round of
+going through this process, I wrote a script that automated all these steps in
+the same order. I also created a log file of
+what the script was doing. It was so satisfying to execute
+the code and see it work. I hope you have lots of
+opportunities to share that same feeling. All right. I had a real blast spending this time with you and
+sharing a little bit of my story and my passion for
+IT and system administration. It isn't easy to learn
+some of these concepts, so thank you for
+sticking with it. On behalf of my colleagues
+who you've met, or who you'll meet
+in other courses, we'd like to say good
+luck and we hope to see you out there in the world putting your new
+skills into action.

@@ -1,0 +1,266 @@
+WEBVTT
+
+1
+00:00:06.890 --> 00:00:09.450
+Queue the graduation music,
+
+2
+00:00:09.450 --> 00:00:11.055
+you've made it to the
+end of the course.
+
+3
+00:00:11.055 --> 00:00:13.695
+Congrats, it's been
+a long journey
+
+4
+00:00:13.695 --> 00:00:16.110
+and you should feel really
+excited for making it here.
+
+5
+00:00:16.110 --> 00:00:18.500
+By now, you're much
+more familiar with
+
+6
+00:00:18.500 --> 00:00:19.760
+the operating system and
+
+7
+00:00:19.760 --> 00:00:21.080
+the many different tasks that you
+
+8
+00:00:21.080 --> 00:00:23.195
+can accomplish using Python.
+
+9
+00:00:23.195 --> 00:00:24.830
+You know how to create,
+
+10
+00:00:24.830 --> 00:00:27.380
+change, and delete
+files and directories.
+
+11
+00:00:27.380 --> 00:00:30.110
+You know how to process text
+with regular expressions
+
+12
+00:00:30.110 --> 00:00:33.365
+both with Python and
+with system tools.
+
+13
+00:00:33.365 --> 00:00:34.880
+You've learned how
+to interact with
+
+14
+00:00:34.880 --> 00:00:36.680
+system processes by starting
+
+15
+00:00:36.680 --> 00:00:38.525
+them and sending signals to them.
+
+16
+00:00:38.525 --> 00:00:40.940
+You've got some experience
+with automatically testing
+
+17
+00:00:40.940 --> 00:00:43.625
+your code to make sure that
+it does what it should.
+
+18
+00:00:43.625 --> 00:00:45.050
+You've dipped your toes into
+
+19
+00:00:45.050 --> 00:00:47.210
+some Bash scripting and
+you've topped all of this
+
+20
+00:00:47.210 --> 00:00:48.799
+off by solving a complex
+
+21
+00:00:48.799 --> 00:00:51.200
+real-world problem
+with the coding road.
+
+22
+00:00:51.200 --> 00:00:53.405
+I hope that you had a
+lot of fun getting here.
+
+23
+00:00:53.405 --> 00:00:55.190
+The most fun and
+rewarding part of
+
+24
+00:00:55.190 --> 00:00:56.974
+my job as a system administrator,
+
+25
+00:00:56.974 --> 00:00:58.400
+is getting the code to work.
+
+26
+00:00:58.400 --> 00:01:00.680
+Sometimes the path to
+accomplish what you
+
+27
+00:01:00.680 --> 00:01:03.290
+want isn't straightforward
+and inevitably,
+
+28
+00:01:03.290 --> 00:01:04.895
+you're going to
+make some mistakes.
+
+29
+00:01:04.895 --> 00:01:06.410
+But there's nothing
+like the moment of
+
+30
+00:01:06.410 --> 00:01:08.440
+clarity you get when you
+spot the change that you
+
+31
+00:01:08.440 --> 00:01:10.340
+need to make so that
+everything works
+
+32
+00:01:10.340 --> 00:01:12.605
+like magic, huge win.
+
+33
+00:01:12.605 --> 00:01:14.510
+The first automation
+script that I ever
+
+34
+00:01:14.510 --> 00:01:16.700
+wrote was for a
+previous job I had.
+
+35
+00:01:16.700 --> 00:01:18.470
+We had a handful of servers,
+
+36
+00:01:18.470 --> 00:01:19.655
+and on a monthly basis,
+
+37
+00:01:19.655 --> 00:01:21.560
+we would manually
+archives some files,
+
+38
+00:01:21.560 --> 00:01:24.620
+check for updates and install
+them if there were any.
+
+39
+00:01:24.620 --> 00:01:26.585
+It was a pretty repetitive task
+
+40
+00:01:26.585 --> 00:01:28.235
+and not the best use of our time.
+
+41
+00:01:28.235 --> 00:01:30.815
+After the second round of
+going through this process,
+
+42
+00:01:30.815 --> 00:01:32.435
+I wrote a script that automated
+
+43
+00:01:32.435 --> 00:01:34.610
+all these steps in
+the same order.
+
+44
+00:01:34.610 --> 00:01:38.495
+I also created a log file of
+what the script was doing.
+
+45
+00:01:38.495 --> 00:01:42.320
+It was so satisfying to execute
+the code and see it work.
+
+46
+00:01:42.320 --> 00:01:44.480
+I hope you have lots of
+opportunities to share
+
+47
+00:01:44.480 --> 00:01:46.480
+that same feeling. All right.
+
+48
+00:01:46.480 --> 00:01:48.050
+I had a real blast spending this
+
+49
+00:01:48.050 --> 00:01:49.820
+time with you and
+sharing a little bit of
+
+50
+00:01:49.820 --> 00:01:54.050
+my story and my passion for
+IT and system administration.
+
+51
+00:01:54.050 --> 00:01:56.410
+It isn't easy to learn
+some of these concepts,
+
+52
+00:01:56.410 --> 00:01:58.235
+so thank you for
+sticking with it.
+
+53
+00:01:58.235 --> 00:02:00.710
+On behalf of my colleagues
+who you've met,
+
+54
+00:02:00.710 --> 00:02:02.210
+or who you'll meet
+in other courses,
+
+55
+00:02:02.210 --> 00:02:04.940
+we'd like to say good
+luck and we hope to see
+
+56
+00:02:04.940 --> 00:02:06.110
+you out there in the world
+
+57
+00:02:06.110 --> 00:02:08.730
+putting your new
+skills into action.

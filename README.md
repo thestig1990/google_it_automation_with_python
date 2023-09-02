@@ -46,7 +46,7 @@ Apply automation at scale by using configuration management and the Cloud
 Practice your technical skills with hands-on projects including a capstone project where you’ll use your new\
 knowledge to solve a real-world IT problem.
 
-**## 6 course series**
+## **6 course series**
 
 > - Crash Course on Python
 > - Using Python to Interact with the Operating System

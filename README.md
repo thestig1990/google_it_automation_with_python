@@ -1,8 +1,11 @@
 # Google IT Automation with Python Professional Course
 
-Learn in-demand skills like Python, Git, and IT automation to advance your career
+## Intro
 
-## About
+The main purpose of creating this repository is self-study during the [Google IT Automation with Python Professional Course](https://www.coursera.org/professional-certificates/google-it-automation)\
+by Google on [Coursera](https://www.coursera.org/). Here you will find training materials, files, videos, quizes and scripts for all 6 courses.
+
+## About course
 
 **What you'll learn**
 

@@ -24,7 +24,7 @@ configuration management and the Cloud.
 
 This certificate can be completed in about 6 months and is designed to prepare you for a variety of roles in IT,\
 like more advanced IT Support Specialist or Junior Systems Administrator positions. Upon completion, you can share\
-your information with potential employers, like Deloitte, Target, Verizon, and of course, Google. 
+your information with potential employers, like Deloitte, Target, Verizon, and of course, Google.
 
 We recommend that you have Python installed on your machine. For some courses, you’ll need a computer where you can\
 install Git or ask your administrator to install it for you.

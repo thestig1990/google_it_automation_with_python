@@ -55,9 +55,9 @@ knowledge to solve a real-world IT problem.
 
 ## 6 course series
 
-> - Crash Course on Python
-> - Using Python to Interact with the Operating System
-> - Introduction to Git and GitHub
-> - Troubleshooting and Debugging Techniques
-> - Configuration Management and the Cloud
-> - Automating Real-World Tasks with Python
+> - [Crash Course on Python](01_Crash\Course\on\Python)
+> - [Using Python to Interact with the Operating System](02_Using\Python\to\Interact\with\the\Operating\System)
+> - [Introduction to Git and GitHub](Introduction\to\Git\and\GitHub)
+> - [Troubleshooting and Debugging Techniques](Troubleshooting\and\Debugging\Techniques)
+> - [Configuration Management and the Cloud](Configuration\Management\and\the\Cloud)
+> - [Automating Real-World Tasks with Python](Automating\Real-World\Tasks\with\Python)

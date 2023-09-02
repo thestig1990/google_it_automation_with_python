@@ -16,3 +16,7 @@ from log files.
 - Describe how subprocess.run works and interacts with system commands like ping
 - Explain what a log file is
 - Use the get command to pull data from log files
+
+## Video materials for Module 4
+
+[Link](https://drive.google.com/drive/folders/1cbW-kKa2RorRCPMMesr2PvcfBCdL8YBH?usp=sharing)

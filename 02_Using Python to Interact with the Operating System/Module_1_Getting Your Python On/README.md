@@ -13,3 +13,7 @@ so you can avoid them. Finally, we’ll learn about Qwiklabs, which will be used
 - Explain what an IDE (integrated development environment) is
 - Install and run Python on a local machine
 - List the benefits and pitfalls of automation
+
+## Video materials for Module 1
+
+[Link](https://drive.google.com/drive/folders/1ccvyOA203XGhTLWxfcYbJYc-9g2QrSCd?usp=sharing)

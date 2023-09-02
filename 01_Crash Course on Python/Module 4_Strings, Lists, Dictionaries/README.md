@@ -10,3 +10,7 @@ reference, and manipulate data in these structures, as well as combine them to s
 - Use lists and tuples to store, reference, and manipulate data
 - Leverage dictionaries to store more complex data, reference data by keys, and manipulate data stored
 - Combine the String, List, and Dictionary data types to construct complex data structures
+
+## Video materials for Module 4
+
+[Link](https://drive.google.com/drive/folders/1UQQLRqo4Ue5iwo_e5GAG8gVQoORZJ8LS?usp=sharing)

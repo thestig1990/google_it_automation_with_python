@@ -21,3 +21,7 @@ and idempotent principals and how they differ from each other.
 - Understand what Puppet is and how Puppet facts work
 - Understand what Puppet resources and classes are
 - Define the principles of configuration management
+
+## Video materials for Module 1
+
+[Link](https://drive.google.com/drive/folders/1UTQr1G6C4L1nLYqIT-KfXfXasv8nV-Ad?usp=sharing)

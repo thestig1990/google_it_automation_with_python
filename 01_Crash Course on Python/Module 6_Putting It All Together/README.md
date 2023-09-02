@@ -11,3 +11,7 @@ available, then begin planning how you to solve a problem.
 - Conduct research into options for tackling the problem
 - Plan an approach to solving the problem
 - Write a complex script in order to implement a solution
+
+## Video materials for Module 6
+
+[Link](https://drive.google.com/drive/folders/1UQe2VAk-PoxJWEJJ3vn75Qtgt_7PjYi4?usp=sharing)

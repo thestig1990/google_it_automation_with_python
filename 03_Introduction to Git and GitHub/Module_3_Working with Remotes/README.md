@@ -17,3 +17,7 @@ workflows, pushing remote branches and rebasing your changes.
 - Utilize the pull-merge-push workflow to address conflicts
 - Push remote branches so code can be viewed and tested by collaborators
 - Explain what rebasing is
+
+## Video materials for Module 3
+
+[Link](https://drive.google.com/drive/folders/1UXSsy0qZo2b-oP0JWbUm2ww58a2dwOUC?usp=sharing)

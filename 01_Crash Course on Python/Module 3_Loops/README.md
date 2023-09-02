@@ -13,3 +13,7 @@ for loops and how to fix them.
 - Use the range() function to control for loops
 - Use nested while and for loops with if statements
 - Identify and correct common errors when using loops.
+
+## Video materials for Module 3
+
+[Link](https://drive.google.com/drive/folders/1UOqWmt4-waKjlvPqC3P4rQt7TeoO_BmO?usp=sharing)

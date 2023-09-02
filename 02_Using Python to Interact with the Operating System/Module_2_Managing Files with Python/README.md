@@ -12,3 +12,7 @@ dive into learning about CSV files and how to best utilize them.
 - Create and navigate through directories
 - Define what CSV files are and read from them
 - Write and make edits to CSV files within directories
+
+## Video materials for Module 2
+
+[Link](https://drive.google.com/drive/folders/1cdMyEYXHdyjaCZGv0m2rOE77eS6yNby_?usp=sharing)

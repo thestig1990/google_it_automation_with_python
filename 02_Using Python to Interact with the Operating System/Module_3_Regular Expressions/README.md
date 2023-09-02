@@ -12,3 +12,7 @@ for regular expressions.
 - Use basic regular expressions including simple matching, wildcard, and character classes
 - Explain repetition qualifiers
 - Use advanced regular expressions
+
+## Video materials for Module 3
+
+[Link](https://drive.google.com/drive/folders/1ccu3fvcSuu5MV2tkokf1uU0lBHeurwz3?usp=sharing)

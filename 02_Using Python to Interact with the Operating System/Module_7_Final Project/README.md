@@ -13,6 +13,10 @@ your solution!
 - Create a planned approach to solve the problem
 - Write a complex script to solve a problem
 
+## Video materials for Module 7
+
+[Link](https://drive.google.com/drive/folders/1cM70jSQibkT4bp8E1N2dnJ-yrRiCKy-i?usp=sharing)
+
 ## Getting Ready for the Final Project
 
 ### Writing a Script from the Ground Up

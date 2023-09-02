@@ -13,3 +13,7 @@ Last up, you’ll deep dive into Git in order to get more familiar with the diff
 - Explain what Git is and its benefits of use
 - Install Git on local machine
 - Utilize Git to create and clone repositories, add code, check the status of code, and commit code
+
+## Video materials for Module 1
+
+[Link](https://drive.google.com/drive/folders/1UUFjmH1-0jU9IBrFVhG9XLhlXkclJKtt?usp=sharing)

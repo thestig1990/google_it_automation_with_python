@@ -18,3 +18,7 @@ of your code much quicker.
 - Understand the different computer components and how they can contribute to slowness
 - Understand how to write efficient code, and utilize the use of data structures and loops to help your code run efficiently
 - Utilize concurrency, caching services, and threads to improve the execution of your code
+
+## Video materials for Module 2
+
+[Link](https://drive.google.com/drive/folders/1cOfyXSHjBhUTRDPJKtSf93LvvAaQuA2c?usp=sharing)

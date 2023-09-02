@@ -12,3 +12,7 @@ language, along with some arithmetic operations.
 - Explain the difference between the syntax and semantics of a programming language
 - List some of the characteristics of the Python language
 - Utilize basic Python arithmetic operators to obtain the results of mathematical expressions
+
+## Video materials for Module 1
+
+[Link](https://drive.google.com/drive/folders/1cSC9bz9Cd7NPxgO2PcWciMm05K58Xmp1?usp=sharing)

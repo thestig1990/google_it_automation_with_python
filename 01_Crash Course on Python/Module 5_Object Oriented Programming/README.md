@@ -13,3 +13,7 @@ notebooks, which we'll use to write and execute more complex code.
 - Write docstrings to document classes and methods
 - Leverage inheritance to reduce code duplication
 - Import and use Python modules to access powerful classes and methods
+
+## Video materials for Module 5
+
+[Link](https://drive.google.com/drive/folders/1cR-nfNiyfpJjT26775SxCgVfrwG5SvRm?usp=sharing)

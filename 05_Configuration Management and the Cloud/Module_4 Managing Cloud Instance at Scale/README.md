@@ -22,3 +22,7 @@ the failure is coming from, and how to recover from a failure when it strikes.
 - Troubleshoot and debug a system without being physically present
 - Understand what a rollback is and how they can help in a system failure
 - Understand how primary and secondary instances can help in a disaster recovery situation
+
+## Video materials for Module 4
+
+[Link](https://drive.google.com/drive/folders/1USeI2aZFaHof3Cis7-oPG8ToB1lQN2Ot?usp=sharing)

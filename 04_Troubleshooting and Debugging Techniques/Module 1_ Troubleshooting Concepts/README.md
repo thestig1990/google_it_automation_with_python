@@ -18,3 +18,7 @@ with finding invalid data in a CSV file.
 - Utilize the right approach for recurring problems and intermittent problems
 - Understand the difference between linear and binary searches
 - Search CSV files for invalid data
+
+## Video materials for Module 1
+
+[Link](https://drive.google.com/drive/folders/1cQQ5Qy4L8O7ybmlVmUIYZemFZ1itYa0l?usp=sharing)

@@ -13,6 +13,10 @@ concepts and develop an understanding of when to use bash versus Python.
 - Utilize while and for loops in bash scripts
 - Describe when it’s necessary to use Bash scripts over Python scripts
 
+## Video materials for Module 6
+
+[Link](https://drive.google.com/drive/folders/1cdgrpLpUTP7-QYCt-3M3I1CS3SzLKkq2?usp=sharing)
+
 ## Interacting with the Command Line Shell
 
 ### Basic Linux Commands

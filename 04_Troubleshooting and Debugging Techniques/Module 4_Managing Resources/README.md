@@ -20,3 +20,7 @@ good use of monitoring.
 - Understand how to deal with complex problems by breaking them down
 - Utilize proactive approaches like continuous integration or having a test environment
 - Utilize best practices when planning for the future
+
+## Video materials for Module 4
+
+[Link](https://drive.google.com/drive/folders/1cQhqjZ3Q1aU48pGjeYU0IYtnCK2NINtn?usp=sharing)

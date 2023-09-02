@@ -18,3 +18,7 @@ with branched data, and how to deal with merge conflicts.
 - Create new branches
 - Use merging to combine branched data
 - Manage and handle merge conflicts
+
+## Video materials for Module 2
+
+[Link](https://drive.google.com/drive/folders/1UW9nROsqgSf0k96FmNjIpz2iAU9Jg4-a?usp=sharing)

@@ -13,6 +13,10 @@ exceptions, and how to combat them.
 - Explain test-driven development
 - Apply a try-except construct to catch errors and exceptions
 
+## Video materials for Module 5
+
+[Link](https://drive.google.com/drive/folders/1cbJpn1J-09_xmB2F9mef2mtEdTbR0QB5?usp=sharing)
+
 ## Simple Tests
 
 ### What is testing?

@@ -18,3 +18,7 @@ ways of tracking issues and finish up by discussing the concept of continuous in
 - Explain the importance of managing projects and accepting or rejecting changes
 - Utilize issue trackers
 - Describe the methodology behind continuous integration
+
+## Video materials for Module 4
+
+[Link](https://drive.google.com/drive/folders/1UWuhVCD7KpA_rYAxSj3NtBdslO6i_R70?usp=sharing)

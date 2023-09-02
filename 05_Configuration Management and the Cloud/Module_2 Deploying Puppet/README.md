@@ -21,3 +21,7 @@ canary track to roll out changes, modification, or updates to that subset of mac
 - Understand the difference between production and testing environments
 - Explore how canaries and development environments are helpful when deploying changes
 - Understand the benefits of multiple environments
+
+## Video materials for Module 2
+
+[Link](https://drive.google.com/drive/folders/1URsCLyqjvRqKtEXo-kaEwRb5gDWbWZz-?usp=sharing)

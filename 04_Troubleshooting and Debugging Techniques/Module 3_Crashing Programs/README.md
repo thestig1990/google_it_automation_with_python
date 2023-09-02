@@ -18,3 +18,7 @@ writing a post mortem can prevent issues from happening again.
 - Utilize techniques, like printf debugging, to troubleshoot and resolve unhandled errors and exceptions
 - Understand how communication and documentation during an outage or error is critical
 - Understand what a postmortem is and what should be included in one
+
+## Video materials for Module 3
+
+[Link](https://drive.google.com/drive/folders/1cOzkflHuJl5E_GMJSwFvng_H4OKPan2x?usp=sharing)

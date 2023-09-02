@@ -22,3 +22,7 @@ or machine readable configuration files that automate configuration management.
 - Understand the difference between auto scaling and load balancing
 - Differentiate between orchestration and automation
 - Define the concept of Infrastructure as Code (IaC)
+
+## Video materials for Module 3
+
+[Link](https://drive.google.com/drive/folders/1UUERdT-Vi1vNsvEVAzDP3grkXaobMeXP?usp=sharing)

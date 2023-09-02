@@ -13,3 +13,7 @@ data using equality and logical operators, and leveraging these to build complex
 - Refactor code and write comments to reduce complexity and enhance code readability and code reuse
 - Compare values using equality operators and logical operators
 - Build complex branching scripts utilizing if, else and elif statements
+
+## Video materials for Module 2
+
+[Link](https://drive.google.com/drive/folders/1UQXxHwDrmVwwa3Lo6Ub7oQJe6HNWti0p?usp=sharing)
